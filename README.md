@@ -55,3 +55,12 @@ The application will display the recipe details, including ingredients and a pre
 
 ![Recipe Finder](screenshots/Screenshot1.jpg)
 
+![Recipe Finder Home Page](screenshots/Screenshot_home.jpg)
+
+![Recipe Finder Categories Page](screenshots/Screenshot_categories.jpg)
+
+![Recipe Finder Meals Page](screenshots/Screenshot_meals.jpg)
+
+![Recipe Finder Meal Info Page](screenshots/Screenshot_meal_info.jpg)
+![Recipe Finder Meal Info Page](screenshots/Screenshot_meal_info2.jpg)
+
