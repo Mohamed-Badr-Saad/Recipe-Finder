@@ -51,3 +51,7 @@ Alternatively, click the random meal button to get a surprise recipe.
 The application will display the recipe details, including ingredients and a preparation video.
 
 
+## Screenshots
+
+![Recipe Finder](screenshots/Screenshot1.jpg)
+
