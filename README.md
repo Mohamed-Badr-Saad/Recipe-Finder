@@ -1,5 +1,6 @@
 # Recipe Finder 
 ##You can access the web app through [recipe finder](https://recipe-finder-app-nu.vercel.app/home.html)
+
 Recipe Finder is a web application that allows users to discover recipes based on various criteria such as meal name, main ingredient, meal category, area of origin, or even by generating a random meal. The application fetches data using a RESTful API and presents the user with detailed information about the selected recipe, including ingredients, preparation steps, and an instructional video.
 
 ## Features
